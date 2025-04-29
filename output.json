@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+    {
+      "test_name": "PERIPHERAL SMEAR",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RBC'S",
+      "value": "Mild",
+      "bio_reference_range": "Anisocytosis-Mild",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "W.B.C'S",
+      "value": "No",
+      "bio_reference_range": "immature cells seen",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PLATELETS",
+      "value": "platelets are adequate",
+      "lab_test_out_of_range": false
+    }
+  ]
+}
